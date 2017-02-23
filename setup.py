@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='duo_python',
-    version='0.1.0',
+    version='0.1.0+eventbrite',
     author='DuoSecurity',
     author_email='duo@duosecurity.com',
     packages=['duo_web',],
